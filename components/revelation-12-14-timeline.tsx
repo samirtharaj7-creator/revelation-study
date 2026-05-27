@@ -44,54 +44,54 @@ const toneStyles: Record<
   }
 > = {
   gold: {
-    border: "border-amber-300",
-    accent: "text-amber-800",
-    marker: "border-amber-200 bg-amber-500 text-white",
+    border: "border-amber-300 dark:border-amber-700/70",
+    accent: "text-amber-800 dark:text-amber-200",
+    marker: "border-amber-200 bg-amber-500 text-white dark:border-amber-300/40",
     spine: "bg-amber-500",
-    chip: "border-amber-200 bg-amber-50 text-amber-950",
-    date: "border-amber-200 bg-amber-100/80 text-amber-950",
-    selected: "ring-2 ring-amber-300 shadow-[0_18px_45px_rgba(180,83,9,0.18)]",
-    selectedCard: "bg-amber-50/70 shadow-md"
+    chip: "border-amber-200 bg-amber-50 text-amber-950 dark:border-amber-700/60 dark:bg-amber-950/35 dark:text-amber-100",
+    date: "border-amber-200 bg-amber-100/80 text-amber-950 dark:border-amber-700/60 dark:bg-amber-950/50 dark:text-amber-100",
+    selected: "ring-2 ring-amber-300 shadow-[0_18px_45px_rgba(180,83,9,0.18)] dark:ring-amber-500/60 dark:shadow-[0_18px_45px_rgba(0,0,0,0.35)]",
+    selectedCard: "bg-amber-50/70 shadow-md dark:bg-amber-950/25"
   },
   violet: {
-    border: "border-violet-300",
-    accent: "text-violet-700",
-    marker: "border-violet-200 bg-violet-700 text-white",
+    border: "border-violet-300 dark:border-violet-700/70",
+    accent: "text-violet-700 dark:text-violet-200",
+    marker: "border-violet-200 bg-violet-700 text-white dark:border-violet-300/40",
     spine: "bg-violet-700",
-    chip: "border-violet-200 bg-violet-50 text-violet-950",
-    date: "border-violet-200 bg-violet-100/80 text-violet-950",
-    selected: "ring-2 ring-violet-300 shadow-[0_18px_45px_rgba(109,40,217,0.18)]",
-    selectedCard: "bg-violet-50/70 shadow-md"
+    chip: "border-violet-200 bg-violet-50 text-violet-950 dark:border-violet-700/60 dark:bg-violet-950/35 dark:text-violet-100",
+    date: "border-violet-200 bg-violet-100/80 text-violet-950 dark:border-violet-700/60 dark:bg-violet-950/50 dark:text-violet-100",
+    selected: "ring-2 ring-violet-300 shadow-[0_18px_45px_rgba(109,40,217,0.18)] dark:ring-violet-500/60 dark:shadow-[0_18px_45px_rgba(0,0,0,0.35)]",
+    selectedCard: "bg-violet-50/70 shadow-md dark:bg-violet-950/25"
   },
   teal: {
-    border: "border-teal-300",
-    accent: "text-teal-800",
-    marker: "border-teal-200 bg-teal-700 text-white",
+    border: "border-teal-300 dark:border-teal-700/70",
+    accent: "text-teal-800 dark:text-teal-200",
+    marker: "border-teal-200 bg-teal-700 text-white dark:border-teal-300/40",
     spine: "bg-teal-700",
-    chip: "border-teal-200 bg-teal-50 text-teal-950",
-    date: "border-teal-200 bg-teal-100/80 text-teal-950",
-    selected: "ring-2 ring-teal-300 shadow-[0_18px_45px_rgba(15,118,110,0.18)]",
-    selectedCard: "bg-teal-50/70 shadow-md"
+    chip: "border-teal-200 bg-teal-50 text-teal-950 dark:border-teal-700/60 dark:bg-teal-950/35 dark:text-teal-100",
+    date: "border-teal-200 bg-teal-100/80 text-teal-950 dark:border-teal-700/60 dark:bg-teal-950/50 dark:text-teal-100",
+    selected: "ring-2 ring-teal-300 shadow-[0_18px_45px_rgba(15,118,110,0.18)] dark:ring-teal-500/60 dark:shadow-[0_18px_45px_rgba(0,0,0,0.35)]",
+    selectedCard: "bg-teal-50/70 shadow-md dark:bg-teal-950/25"
   },
   rose: {
-    border: "border-rose-300",
-    accent: "text-rose-800",
-    marker: "border-rose-200 bg-rose-700 text-white",
+    border: "border-rose-300 dark:border-rose-700/70",
+    accent: "text-rose-800 dark:text-rose-200",
+    marker: "border-rose-200 bg-rose-700 text-white dark:border-rose-300/40",
     spine: "bg-rose-700",
-    chip: "border-rose-200 bg-rose-50 text-rose-950",
-    date: "border-rose-200 bg-rose-100/80 text-rose-950",
-    selected: "ring-2 ring-rose-300 shadow-[0_18px_45px_rgba(190,18,60,0.18)]",
-    selectedCard: "bg-rose-50/70 shadow-md"
+    chip: "border-rose-200 bg-rose-50 text-rose-950 dark:border-rose-700/60 dark:bg-rose-950/35 dark:text-rose-100",
+    date: "border-rose-200 bg-rose-100/80 text-rose-950 dark:border-rose-700/60 dark:bg-rose-950/50 dark:text-rose-100",
+    selected: "ring-2 ring-rose-300 shadow-[0_18px_45px_rgba(190,18,60,0.18)] dark:ring-rose-500/60 dark:shadow-[0_18px_45px_rgba(0,0,0,0.35)]",
+    selectedCard: "bg-rose-50/70 shadow-md dark:bg-rose-950/25"
   },
   slate: {
-    border: "border-slate-300",
-    accent: "text-slate-700",
-    marker: "border-slate-200 bg-slate-600 text-white",
+    border: "border-slate-300 dark:border-slate-600/80",
+    accent: "text-slate-700 dark:text-slate-200",
+    marker: "border-slate-200 bg-slate-600 text-white dark:border-slate-300/40",
     spine: "bg-slate-600",
-    chip: "border-slate-200 bg-slate-50 text-slate-950",
-    date: "border-slate-200 bg-slate-100 text-slate-950",
-    selected: "ring-2 ring-slate-300 shadow-[0_18px_45px_rgba(71,85,105,0.18)]",
-    selectedCard: "bg-slate-50 shadow-md"
+    chip: "border-slate-200 bg-slate-50 text-slate-950 dark:border-slate-600/70 dark:bg-slate-900/60 dark:text-slate-100",
+    date: "border-slate-200 bg-slate-100 text-slate-950 dark:border-slate-600/70 dark:bg-slate-900/70 dark:text-slate-100",
+    selected: "ring-2 ring-slate-300 shadow-[0_18px_45px_rgba(71,85,105,0.18)] dark:ring-slate-400/60 dark:shadow-[0_18px_45px_rgba(0,0,0,0.35)]",
+    selectedCard: "bg-slate-50 shadow-md dark:bg-slate-900/45"
   }
 };
 
@@ -101,9 +101,9 @@ const summaryCards = [
     title: "Messiah and Victory",
     period: "c. 5/4 B.C. to A.D. 31",
     body: "The woman bears the promised Child, the dragon moves against Him, and Christ is caught up to God after His victory.",
-    className: "border-amber-300 bg-[#fffaf1]",
-    iconClassName: "bg-amber-100 text-amber-800",
-    titleClassName: "text-amber-900",
+    className: "border-amber-300 bg-[#fffaf1] dark:border-amber-800/70 dark:bg-amber-950/20",
+    iconClassName: "bg-amber-100 text-amber-800 dark:bg-amber-950/60 dark:text-amber-200",
+    titleClassName: "text-amber-900 dark:text-amber-100",
     icon: Crown
   },
   {
@@ -111,9 +111,9 @@ const summaryCards = [
     title: "Wilderness and Beast Power",
     period: "A.D. 538-1798",
     body: "The 1,260 years and the beast's forty-two months trace the same long period of pressure, preservation, and witness.",
-    className: "border-violet-300 bg-[#fffaf1]",
-    iconClassName: "bg-violet-100 text-violet-700",
-    titleClassName: "text-violet-700",
+    className: "border-violet-300 bg-[#fffaf1] dark:border-violet-800/70 dark:bg-violet-950/20",
+    iconClassName: "bg-violet-100 text-violet-700 dark:bg-violet-950/60 dark:text-violet-200",
+    titleClassName: "text-violet-700 dark:text-violet-100",
     icon: ShieldAlert
   },
   {
@@ -121,9 +121,9 @@ const summaryCards = [
     title: "Final Message and Crisis",
     period: "After 1798 / 1844 onward",
     body: "The remnant, judgment-hour message, final worship crisis, and harvest bring the conflict to its closing scenes.",
-    className: "border-teal-300 bg-[#fffaf1]",
-    iconClassName: "bg-teal-100 text-teal-800",
-    titleClassName: "text-teal-800",
+    className: "border-teal-300 bg-[#fffaf1] dark:border-teal-800/70 dark:bg-teal-950/20",
+    iconClassName: "bg-teal-100 text-teal-800 dark:bg-teal-950/60 dark:text-teal-200",
+    titleClassName: "text-teal-800 dark:text-teal-100",
     icon: Megaphone
   }
 ];
@@ -562,21 +562,21 @@ export function Revelation1214Timeline({ commentaryByVerse }: { commentaryByVers
 
   return (
     <section className="mx-auto w-full max-w-7xl overflow-x-hidden whitespace-normal px-4 py-8 sm:px-6 lg:px-8" aria-labelledby="revelation-12-14-title">
-      <div className="min-w-0 rounded-lg border border-[#e3d7c5] bg-[#fbf7ef] text-[#302b25] shadow-sm">
-        <header className="border-b border-[#e6dac9] px-5 py-6 sm:px-7">
+      <div className="min-w-0 rounded-lg border border-[#e3d7c5] bg-[#fbf7ef] text-[#302b25] shadow-sm dark:border-border dark:bg-card dark:text-card-foreground">
+        <header className="border-b border-[#e6dac9] px-5 py-6 dark:border-border sm:px-7">
           <div className="flex flex-col gap-4 sm:flex-row sm:items-start sm:justify-between">
             <div className="min-w-0">
-              <p className="break-words text-xs font-bold uppercase tracking-[0.16em] text-red-900 [overflow-wrap:anywhere] sm:tracking-[0.24em]">
+              <p className="break-words text-xs font-bold uppercase tracking-[0.16em] text-red-900 [overflow-wrap:anywhere] dark:text-primary sm:tracking-[0.24em]">
                 Timeline Sequence
               </p>
               <h1 id="revelation-12-14-title" className="mt-2 break-words font-serif-display text-3xl font-semibold [overflow-wrap:anywhere] sm:text-4xl">
                 Revelation 12-14
               </h1>
-              <p className="mt-3 max-w-3xl break-words text-sm leading-7 text-[#5b5349] [overflow-wrap:anywhere]">
+              <p className="mt-3 max-w-3xl break-words text-sm leading-7 text-[#5b5349] [overflow-wrap:anywhere] dark:text-muted-foreground">
                 Follow the prophetic movement chronologically: Messiah, wilderness preservation, beast powers, final message, final crisis, and harvest.
               </p>
             </div>
-            <span className="inline-flex w-fit rounded-full border border-[#e3d7c5] bg-[#f5efe5] px-3 py-1.5 text-xs font-bold text-[#3f3932] shadow-sm">
+            <span className="inline-flex w-fit rounded-full border border-[#e3d7c5] bg-[#f5efe5] px-3 py-1.5 text-xs font-bold text-[#3f3932] shadow-sm dark:border-border dark:bg-muted dark:text-foreground">
               {timelineRows.length} study rows
             </span>
           </div>
@@ -590,21 +590,21 @@ export function Revelation1214Timeline({ commentaryByVerse }: { commentaryByVers
                   </span>
                   <div className="min-w-0">
                     <h2 className={`break-words text-lg font-bold leading-tight [overflow-wrap:anywhere] sm:text-xl ${card.titleClassName}`}>{card.title}</h2>
-                    <p className="mt-1 break-words text-xs font-bold uppercase tracking-[0.14em] text-[#6a5f53] [overflow-wrap:anywhere]">
+                    <p className="mt-1 break-words text-xs font-bold uppercase tracking-[0.14em] text-[#6a5f53] [overflow-wrap:anywhere] dark:text-muted-foreground">
                       {card.period}
                     </p>
                   </div>
                 </div>
-                <p className="mt-3 break-words text-sm leading-6 text-[#5b5349] [overflow-wrap:anywhere]">{card.body}</p>
+                <p className="mt-3 break-words text-sm leading-6 text-[#5b5349] [overflow-wrap:anywhere] dark:text-muted-foreground">{card.body}</p>
               </article>
             ))}
           </div>
 
-          <div className="mt-5 rounded-lg border border-[#e3d7c5] bg-[#fffdf8] px-4 py-3">
-            <p className="break-words text-[0.7rem] font-bold uppercase tracking-[0.16em] text-red-900 [overflow-wrap:anywhere] sm:tracking-[0.22em]">
+          <div className="mt-5 rounded-lg border border-[#e3d7c5] bg-[#fffdf8] px-4 py-3 dark:border-border dark:bg-background/60">
+            <p className="break-words text-[0.7rem] font-bold uppercase tracking-[0.16em] text-red-900 [overflow-wrap:anywhere] dark:text-primary sm:tracking-[0.22em]">
               Chronology Note
             </p>
-            <p className="mt-1.5 break-words text-sm leading-6 text-[#5b5349] [overflow-wrap:anywhere]">
+            <p className="mt-1.5 break-words text-sm leading-6 text-[#5b5349] [overflow-wrap:anywhere] dark:text-muted-foreground">
               These rows are arranged by prophetic chronology rather than strict verse order. Revelation 12-14 often repeats and enlarges the same conflict from another angle, so some rows revisit the same period to show both pressure and preservation.
             </p>
           </div>
@@ -629,11 +629,11 @@ export function Revelation1214Timeline({ commentaryByVerse }: { commentaryByVers
         </div>
 
         <div className="px-4 pb-7 sm:px-7">
-          <div className="rounded-lg border border-[#e3d7c5] bg-[#fffdf8] p-4">
-            <p className="break-words text-xs font-bold uppercase tracking-[0.16em] text-red-900 [overflow-wrap:anywhere] sm:tracking-[0.22em]">
+          <div className="rounded-lg border border-[#e3d7c5] bg-[#fffdf8] p-4 dark:border-border dark:bg-background/60">
+            <p className="break-words text-xs font-bold uppercase tracking-[0.16em] text-red-900 [overflow-wrap:anywhere] dark:text-primary sm:tracking-[0.22em]">
               Dated and Undated Events
             </p>
-            <p className="mt-3 break-words text-sm leading-6 text-[#5b5349] [overflow-wrap:anywhere]">
+            <p className="mt-3 break-words text-sm leading-6 text-[#5b5349] [overflow-wrap:anywhere] dark:text-muted-foreground">
               Dates are shown only where the prophetic framework supplies them. The final mark crisis, Sunday-law enforcement, economic restriction, and the timing of the final harvest remain undated, so the timeline explains their character without setting a calendar.
             </p>
           </div>
@@ -684,7 +684,7 @@ function TimelineStudyRow({
       aria-pressed={isSelected}
       onClick={onSelect}
       onKeyDown={handleKeyDown}
-      className={`relative grid min-w-0 cursor-pointer gap-4 rounded-lg border bg-transparent p-3.5 shadow-sm outline-none transition duration-200 hover:shadow-md focus-visible:ring-2 focus-visible:ring-red-900/40 sm:p-5 lg:grid-cols-[minmax(0,1fr)_96px_minmax(0,1fr)] lg:items-stretch ${styles.border} ${isSelected ? styles.selected : ""}`}
+      className={`relative grid min-w-0 cursor-pointer gap-4 rounded-lg border bg-transparent p-3.5 shadow-sm outline-none transition duration-200 hover:shadow-md focus-visible:ring-2 focus-visible:ring-red-900/40 dark:focus-visible:ring-primary/50 sm:p-5 lg:grid-cols-[minmax(0,1fr)_96px_minmax(0,1fr)] lg:items-stretch ${styles.border} ${isSelected ? styles.selected : ""}`}
     >
       <div
         className={`pointer-events-none absolute left-7 z-20 w-2.5 ${styles.spine} shadow-[0_0_0_1px_rgba(15,23,42,0.08)] lg:hidden ${isFirst ? "-top-7 rounded-t-full" : "-top-9"} ${isLast ? "-bottom-7 rounded-b-full" : "-bottom-9"}`}
@@ -692,7 +692,7 @@ function TimelineStudyRow({
       />
 
       <div className="relative z-10 min-w-0 pl-12 lg:pl-0">
-        <div className={`min-w-0 rounded-lg border bg-[#fffaf1] p-3.5 transition sm:p-4 ${styles.border} ${isSelected ? styles.selectedCard : ""}`}>
+        <div className={`min-w-0 rounded-lg border bg-[#fffaf1] p-3.5 transition dark:bg-card sm:p-4 ${styles.border} ${isSelected ? styles.selectedCard : ""}`}>
           <div className="flex flex-wrap items-center gap-2">
             <p className={`break-words text-xs font-bold uppercase tracking-[0.16em] [overflow-wrap:anywhere] sm:tracking-[0.22em] ${styles.accent}`}>
               {row.scripture}
@@ -701,13 +701,13 @@ function TimelineStudyRow({
               <span className={`max-w-full rounded-full border px-2.5 py-0.5 text-[0.72rem] font-bold ${styles.date}`}>{row.dateLabel}</span>
             ) : null}
           </div>
-          <h2 className="mt-3 break-words font-serif-display text-lg font-semibold leading-tight [overflow-wrap:anywhere] sm:text-xl">{row.title}</h2>
+          <h2 className="mt-3 break-words font-serif-display text-lg font-semibold leading-tight [overflow-wrap:anywhere] dark:text-card-foreground sm:text-xl">{row.title}</h2>
           {row.dateNote ? (
             <p className={`mt-2 break-words text-[0.7rem] font-bold uppercase tracking-[0.14em] [overflow-wrap:anywhere] sm:tracking-[0.18em] ${styles.accent}`}>
               {row.dateNote}
             </p>
           ) : null}
-          <p className="mt-3 break-words font-serif-display text-sm font-semibold leading-6 text-[#3a342d] [overflow-wrap:anywhere] sm:text-base sm:leading-7">{row.excerpt}</p>
+          <p className="mt-3 break-words font-serif-display text-sm font-semibold leading-6 text-[#3a342d] [overflow-wrap:anywhere] dark:text-foreground sm:text-base sm:leading-7">{row.excerpt}</p>
         </div>
       </div>
 
@@ -717,18 +717,18 @@ function TimelineStudyRow({
           aria-hidden="true"
         />
         <div className="relative z-50 flex flex-col items-center lg:h-full lg:justify-center">
-          <span className={`relative z-50 flex h-14 w-14 items-center justify-center rounded-full border-[6px] border-[#eadcca] shadow-md transition duration-200 ${styles.marker} ${isSelected ? "scale-105 ring-4 ring-[#fffdf8]" : ""}`}>
+          <span className={`relative z-50 flex h-14 w-14 items-center justify-center rounded-full border-[6px] border-[#eadcca] shadow-md transition duration-200 dark:border-background ${styles.marker} ${isSelected ? "scale-105 ring-4 ring-[#fffdf8] dark:ring-card" : ""}`}>
             <Icon className="h-6 w-6" aria-hidden="true" />
           </span>
-          <span className={`relative z-50 mt-2.5 hidden w-24 rounded-lg border bg-[#fffdf8] px-2.5 py-1.5 text-center text-[0.68rem] font-bold uppercase tracking-[0.16em] shadow-sm transition lg:block ${styles.border} ${styles.accent} ${isSelected ? styles.selectedCard : ""}`}>
+          <span className={`relative z-50 mt-2.5 hidden w-24 rounded-lg border bg-[#fffdf8] px-2.5 py-1.5 text-center text-[0.68rem] font-bold uppercase tracking-[0.16em] shadow-sm transition dark:bg-card lg:block ${styles.border} ${styles.accent} ${isSelected ? styles.selectedCard : ""}`}>
             {row.phase}
           </span>
         </div>
       </div>
 
       <div className="relative z-10 min-w-0 pl-12 lg:pl-0">
-        <div className={`min-w-0 rounded-lg border border-[#e4d9c9] bg-[#fbf7ef] p-3.5 transition sm:p-4 ${isSelected ? styles.selectedCard : ""}`}>
-          <p className="break-words text-xs font-bold uppercase tracking-[0.16em] text-[#5f554a] [overflow-wrap:anywhere] sm:tracking-[0.22em]">
+        <div className={`min-w-0 rounded-lg border border-[#e4d9c9] bg-[#fbf7ef] p-3.5 transition dark:border-border dark:bg-card sm:p-4 ${isSelected ? styles.selectedCard : ""}`}>
+          <p className="break-words text-xs font-bold uppercase tracking-[0.16em] text-[#5f554a] [overflow-wrap:anywhere] dark:text-muted-foreground sm:tracking-[0.22em]">
             Brief Explanation
           </p>
           {row.chronologyNote ? (
@@ -736,7 +736,7 @@ function TimelineStudyRow({
           ) : null}
           <div className="mt-3 space-y-3">
             {getParagraphs(briefExplanation).map((paragraph) => (
-              <p key={paragraph} className="break-words text-sm leading-7 text-[#554c43] [overflow-wrap:anywhere]">
+              <p key={paragraph} className="break-words text-sm leading-7 text-[#554c43] [overflow-wrap:anywhere] dark:text-muted-foreground">
                 {paragraph}
               </p>
             ))}
@@ -744,10 +744,10 @@ function TimelineStudyRow({
 
           {row.danielLinks?.length ? (
             <div className="mt-4">
-              <p className="text-[0.65rem] font-bold uppercase tracking-[0.18em] text-[#5f554a]">Daniel Links</p>
+              <p className="text-[0.65rem] font-bold uppercase tracking-[0.18em] text-[#5f554a] dark:text-muted-foreground">Daniel Links</p>
               <div className="mt-2 flex flex-wrap gap-2">
                 {row.danielLinks.map((reference) => (
-                  <span key={reference} className="max-w-full rounded-full border border-slate-300 bg-slate-100 px-2.5 py-0.5 text-[0.72rem] font-bold text-slate-900">
+                  <span key={reference} className="max-w-full rounded-full border border-slate-300 bg-slate-100 px-2.5 py-0.5 text-[0.72rem] font-bold text-slate-900 dark:border-slate-700 dark:bg-slate-900/60 dark:text-slate-100">
                     {reference}
                   </span>
                 ))}
@@ -771,7 +771,7 @@ function TimelineStudyRow({
               event.stopPropagation();
               onToggleCloud();
             }}
-            className="mt-4 inline-flex items-center gap-2 text-sm font-bold text-red-900 transition hover:gap-3 focus-visible:rounded focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-red-900/40"
+            className="mt-4 inline-flex items-center gap-2 text-sm font-bold text-red-900 transition hover:gap-3 focus-visible:rounded focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-red-900/40 dark:text-primary dark:focus-visible:ring-primary/50"
           >
             Learn more
             <ArrowRight className={`h-4 w-4 transition ${isCloudOpen ? "rotate-90" : ""}`} aria-hidden="true" />
@@ -780,12 +780,12 @@ function TimelineStudyRow({
           {isCloudOpen ? (
             <div
               id={cloudId}
-              className="mt-4 max-h-[30rem] overflow-y-auto rounded-[1.5rem] border border-[#e2d6c5] bg-[#fffdf8] p-4 shadow-[0_18px_45px_rgba(88,64,42,0.12)]"
+              className="mt-4 max-h-[30rem] overflow-y-auto rounded-[1.5rem] border border-[#e2d6c5] bg-[#fffdf8] p-4 shadow-[0_18px_45px_rgba(88,64,42,0.12)] dark:border-border dark:bg-card dark:shadow-[0_18px_45px_rgba(0,0,0,0.28)]"
               onClick={(event) => event.stopPropagation()}
             >
               <div className="mb-3 flex flex-wrap items-center justify-between gap-2">
-                <p className="text-xs font-bold uppercase tracking-[0.18em] text-red-900">Full Commentary</p>
-                <span className="rounded-full border border-[#e3d7c5] bg-[#f5efe5] px-2.5 py-0.5 text-[0.72rem] font-bold text-[#554c43]">
+                <p className="text-xs font-bold uppercase tracking-[0.18em] text-red-900 dark:text-primary">Full Commentary</p>
+                <span className="rounded-full border border-[#e3d7c5] bg-[#f5efe5] px-2.5 py-0.5 text-[0.72rem] font-bold text-[#554c43] dark:border-border dark:bg-muted dark:text-foreground">
                   {commentaryEntries.length} {commentaryEntries.length === 1 ? "verse" : "verses"}
                 </span>
               </div>
@@ -796,7 +796,7 @@ function TimelineStudyRow({
                     <h3 className={`text-sm font-bold ${styles.accent}`}>{entry.verse}</h3>
                     <div className="mt-2.5 space-y-3">
                       {getParagraphs(entry.text).map((paragraph) => (
-                        <p key={paragraph} className="break-words text-sm leading-6 text-[#554c43] [overflow-wrap:anywhere]">
+                        <p key={paragraph} className="break-words text-sm leading-6 text-[#554c43] [overflow-wrap:anywhere] dark:text-muted-foreground">
                           {paragraph}
                         </p>
                       ))}

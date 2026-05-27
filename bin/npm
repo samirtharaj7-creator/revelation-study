@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+exec /Users/samuel/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node /private/tmp/npm-cli-11.15.0/package/bin/npm-cli.js "$@"
