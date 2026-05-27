@@ -1,0 +1,53 @@
+{
+  "name": "revelation-study-platform",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "PATH=./bin:$PATH NEXT_TEST_WASM_DIR=./node_modules/@next/swc-wasm-nodejs next dev --webpack",
+    "build": "PATH=./bin:$PATH NEXT_TEST_WASM_DIR=./node_modules/@next/swc-wasm-nodejs next build --webpack",
+    "start": "PATH=./bin:$PATH next start",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "polish:commentary": "node scripts/polish-natural-commentary-and-references.mjs",
+    "validate:content": "tsx scripts/validate-content.ts",
+    "audit:mcnulty": "tsx scripts/audit-mcnulty-theology.ts",
+    "check:quotes": "tsx scripts/check-quotes.ts",
+    "check:commentary": "tsx scripts/check-commentary-coverage.ts"
+  },
+  "dependencies": {
+    "@radix-ui/react-accordion": "latest",
+    "@radix-ui/react-dialog": "latest",
+    "@radix-ui/react-label": "latest",
+    "@radix-ui/react-scroll-area": "latest",
+    "@radix-ui/react-select": "latest",
+    "@radix-ui/react-separator": "latest",
+    "@radix-ui/react-slot": "latest",
+    "@radix-ui/react-tabs": "latest",
+    "@radix-ui/react-tooltip": "latest",
+    "class-variance-authority": "latest",
+    "clsx": "latest",
+    "framer-motion": "latest",
+    "fuse.js": "latest",
+    "lucide-react": "latest",
+    "next": "latest",
+    "next-themes": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "recharts": "latest",
+    "tailwind-merge": "latest",
+    "zod": "latest"
+  },
+  "devDependencies": {
+    "@next/swc-wasm-nodejs": "^16.2.6",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "autoprefixer": "^10.5.0",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "postcss": "^8.5.15",
+    "tailwindcss": "^3.4.17",
+    "tsx": "latest",
+    "typescript": "latest"
+  }
+}
