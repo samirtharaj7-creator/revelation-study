@@ -1,0 +1,90 @@
+{
+  "title": "The Seven Churches: Message and History",
+  "slug": "seven-churches-message-and-history",
+  "category": "Reading Revelation",
+  "summary": "The seven churches were real congregations, but their messages also trace the spiritual experience of the church as Christ walks among His people.",
+  "readingTime": "9 min read",
+  "tags": ["seven churches", "Ephesus", "Smyrna", "Philadelphia", "Laodicea"],
+  "sections": [
+    {
+      "id": "real-churches",
+      "title": "Real churches first",
+      "body": [
+        "The messages to the seven churches were not written to imaginary communities. Ephesus, Smyrna, Pergamos, Thyatira, Sardis, Philadelphia, and Laodicea were real churches in real cities, facing real pressures. They lived under social expectation, civic religion, trade-guild pressure, false teaching, persecution, wealth, poverty, and spiritual fatigue.",
+        "Reading them historically matters because Jesus addresses concrete conditions. Ephesus had labor and discernment but had left its first love. Smyrna was poor in the world's eyes but rich before God. Pergamos lived where compromise with false worship pressed hard. Thyatira tolerated corrupting influence. Sardis had a reputation for life but was spiritually asleep. Philadelphia had little strength but an open door. Laodicea was comfortable, blind, and in urgent need of Christ's remedy."
+      ],
+      "scriptureReferences": ["Revelation 2:1-7", "Revelation 2:8-11", "Revelation 3:1-6", "Revelation 3:14-22"]
+    },
+    {
+      "id": "sevenfold-witness",
+      "title": "A sevenfold witness",
+      "body": [
+        "The number seven signals completeness throughout Revelation. That does not erase the local setting, but it widens the address. The repeated pattern, the command to hear what the Spirit says to the churches, and the location of the messages at the front of the book show that every church must listen to every message.",
+        "The seven churches also provide a prophetic portrait of the church's unfolding experience. The sequence moves from apostolic devotion and early loss of love, through persecution, compromise, medieval corruption, Reformation-era formalism, missionary awakening, and the final self-sufficient condition that needs Christ at the door. The value of this reading is not merely chronological. It helps the reader see that Christ has always known the state of His people.",
+        "The movement is strikingly coherent. Ephesus fits the apostolic church's labor and doctrinal vigilance while warning against cooling love. Smyrna fits the persecuted church, faithful under suffering and promised the crown of life. Pergamos fits the era when imperial favor made compromise tempting. Thyatira fits the long medieval mixture of religion, authority, and corruption while preserving faithful works and endurance.",
+        "Sardis fits the danger that can follow reform: a name of life without corresponding vitality. Philadelphia fits the era of missionary awakening, open doors, and renewed expectation. Laodicea fits the final judgment-era condition of spiritual self-confidence: rich in profession, poor in reality, and urgently needing Christ's gold, white raiment, and eyesalve. The sequence is sobering because it shows Christ evaluating His church across time by love, truth, faithfulness, and repentance."
+      ],
+      "scriptureReferences": ["Revelation 1:11", "Revelation 1:20", "Revelation 2:7", "Revelation 3:22"]
+    },
+    {
+      "id": "christ-among-lampstands",
+      "title": "Christ among the lampstands",
+      "body": [
+        "The letters are framed by the vision of Christ among the lampstands. This is crucial. The churches are not left alone to diagnose themselves. The One who walks among them has eyes like fire, feet like burnished brass, a voice like many waters, and a word sharper than compromise. Yet His searching presence is not hostile to His church. It is the presence of the Savior who loves, rebukes, calls, and promises.",
+        "Each message reveals a different aspect of Christ's ministry. He commends what is real. He exposes what is hidden. He calls for repentance before judgment becomes irreversible. He gives promises that match the struggle: tree of life, crown of life, hidden manna, white stone, authority, morning star, white garments, a place in the temple, and a seat with Him on His throne."
+      ],
+      "scriptureReferences": ["Revelation 1:12-18", "Revelation 2:10", "Revelation 2:17", "Revelation 3:5", "Revelation 3:21"]
+    },
+    {
+      "id": "laodicean-urgency",
+      "title": "The urgency of the final message",
+      "body": [
+        "The last message is especially searching because Laodicea does not think it needs anything. Its danger is not open hatred of Christ but comfortable misjudgment of itself. It is rich, increased with goods, and unaware of its poverty, blindness, and nakedness. Christ's remedy is gold tried in the fire, white raiment, and eyesalve: faith purified through testing, the covering only He can give, and spiritual sight restored by grace.",
+        "The wonder of Laodicea is that Christ still knocks. The final church is rebuked because it is loved. The message is severe because the invitation is still open. Christ does not flatter His people into readiness; He tells the truth so they may open the door, receive Him, and overcome."
+      ],
+      "scriptureReferences": ["Revelation 3:14-22", "Hebrews 12:5-11", "John 15:4-5"]
+    }
+  ],
+  "whyThisMatters": {
+    "body": [
+      "The seven churches teach the reader how Revelation should be received. Prophecy is not given to create detached spectators. It searches the church. It calls for love, endurance, purity, watchfulness, faithful witness, and repentance.",
+      "The comfort is equally strong: Christ remains among His lampstands. He has not abandoned His church to its failures or enemies. The One who rebukes also promises."
+    ],
+    "scriptureReferences": ["Revelation 1:3", "Revelation 2:7", "Revelation 3:19-22"]
+  },
+  "relatedLinks": [
+    {
+      "title": "Revelation 2",
+      "href": "/revelation/2",
+      "description": "Ephesus, Smyrna, Pergamos, and Thyatira."
+    },
+    {
+      "title": "Revelation 3",
+      "href": "/revelation/3",
+      "description": "Sardis, Philadelphia, and Laodicea."
+    }
+  ],
+  "sourceAudit": {
+    "overview": [
+      { "sourceId": "revelation-chapter-two-docx", "locator": "Revelation 2 manuscript material", "claimType": "seven churches", "priority": 1 },
+      { "sourceId": "revelation-chapter-three-docx", "locator": "Revelation 3 manuscript material", "claimType": "seven churches", "priority": 1 }
+    ],
+    "sections": {
+      "real-churches": [
+        { "sourceId": "revelation-chapter-two-docx", "locator": "historical city details", "claimType": "historical background", "priority": 1 }
+      ],
+      "sevenfold-witness": [
+        { "sourceId": "revelation-practical-living-in-the-judgment-hour", "locator": "seven churches sequence", "claimType": "prophetic structure", "priority": 1 }
+      ],
+      "christ-among-lampstands": [
+        { "sourceId": "revelation-docx", "locator": "Revelation 1-3 synthesis", "claimType": "christological framing", "priority": 1 }
+      ],
+      "laodicean-urgency": [
+        { "sourceId": "revelation-chapter-three-docx", "locator": "Laodicea material", "claimType": "pastoral theology", "priority": 1 }
+      ]
+    },
+    "whyThisMatters": [
+      { "sourceId": "stefanovic-revelation-of-jesus-christ", "locator": "seven churches overview", "claimType": "supporting synthesis", "priority": 2 }
+    ]
+  }
+}

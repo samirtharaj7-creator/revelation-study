@@ -1,0 +1,105 @@
+{
+  "title": "What Is the Lake of Fire?",
+  "slug": "what-is-the-lake-of-fire",
+  "category": "Final Conflict and Restoration",
+  "summary": "The lake of fire is the second death: God's final judgment, the destruction of sin, and the end of rebellion.",
+  "readingTime": "8 min read",
+  "tags": ["lake of fire", "second death", "judgment", "hell", "final destruction"],
+  "sections": [
+    {
+      "id": "the-second-death",
+      "title": "The second death",
+      "body": [
+        "Revelation identifies the lake of fire as the second death. That phrase is essential. The issue is not merely pain, place, or duration; it is the final opposite of life in God's kingdom. Those who share in the first resurrection are safe from the second death. Those whose names are not found in the book of life face it after the great white throne judgment.",
+        "This language gives the lake of fire a judicial and final character. It is not a rival kingdom where sin continues forever. It is God's answer to sin, death, the grave, Satan, and rebellion. Revelation's goal is not an eternally divided universe but a new heaven and new earth where death is no more."
+      ],
+      "scriptureReferences": ["Revelation 20:6", "Revelation 20:14-15", "Revelation 21:4"]
+    },
+    {
+      "id": "eternal-torment-view",
+      "title": "The eternal torment view",
+      "body": [
+        "Many Christians have understood the lake of fire as eternal conscious torment. This view points to phrases such as smoke ascending forever and ever, torment day and night, and everlasting punishment. It wants to take judgment seriously and to avoid softening the Bible's warnings. Revelation certainly does not treat final judgment lightly.",
+        "The question is whether those phrases require endless conscious suffering for every lost person, or whether they use judgment language from the Old Testament to describe irreversible destruction. Scripture often uses forever language for results that cannot be reversed. The smoke of Edom rises forever in prophetic imagery, yet the point is complete judgment, not a city still burning without end."
+      ],
+      "scriptureReferences": ["Matthew 25:46", "Revelation 14:10-11", "Revelation 20:10", "Isaiah 34:8-10"]
+    },
+    {
+      "id": "final-destruction-view",
+      "title": "The final destruction view",
+      "body": [
+        "The final destruction view reads the lake of fire as the complete end of the wicked. It takes seriously the repeated biblical language of death, destruction, perishing, consuming fire, ashes, and the end of sin. In Revelation 20, death and the grave are thrown into the lake of fire. That image is difficult to read as everlasting life in misery; death itself is being abolished.",
+        "This view also fits Revelation 21. After the lake of fire, John sees a world where death, sorrow, crying, and pain are gone. The former things have passed away. Sin does not continue in a corner of the universe. God's judgment removes it so creation can be made new."
+      ],
+      "scriptureReferences": ["Malachi 4:1-3", "Matthew 10:28", "Romans 6:23", "Revelation 21:1-5"]
+    },
+    {
+      "id": "justice-without-cruelty",
+      "title": "Justice without cruelty",
+      "body": [
+        "Revelation's judgment is severe because evil is severe. Babylon sheds blood. The beast coerces worship. The dragon deceives and persecutes. The wicked join Satan's final assault against the beloved city. God does not destroy harmless misunderstanding; He judges mature rebellion that refuses mercy and threatens the peace of the universe.",
+        "At the same time, God's justice is not cruelty. The lake of fire is called the second death, not eternal preservation in sin. The Judge of all the earth does right. His purpose is to end rebellion, vindicate His government, and secure a creation where love is no longer threatened by deception, violence, and death."
+      ],
+      "scriptureReferences": ["Genesis 18:25", "Revelation 16:5-7", "Revelation 20:9-15"]
+    },
+    {
+      "id": "satan-and-the-end",
+      "title": "Satan and the end",
+      "body": [
+        "The lake of fire also includes the devil, the beast, and the false prophet. Revelation does not leave evil eternally active. Satan's last act is deception; God's final act against him is judgment. The great controversy ends not by compromise but by the removal of the one who has deceived the nations.",
+        "This is why the lake of fire is part of the good news of restoration. It is terrible, but it is not meaningless terror. It is the end of the destroyer, the end of accusation, the end of death, and the end of everything that made tears necessary."
+      ],
+      "scriptureReferences": ["Revelation 20:10", "Revelation 20:14", "Revelation 21:4", "Ezekiel 28:18-19"]
+    }
+  ],
+  "whyThisMatters": {
+    "body": [
+      "The lake of fire matters because God's love does not make peace with evil. He saves all who will receive life, and He finally destroys what destroys.",
+      "Revelation's last word is not fire but new creation. The second death clears the way for a world where death itself is gone."
+    ],
+    "scriptureReferences": ["Revelation 20:14", "Revelation 21:4", "Revelation 22:3"]
+  },
+  "relatedLinks": [
+    {
+      "title": "Revelation 20",
+      "href": "/revelation/20",
+      "description": "The great white throne, second death, and final judgment."
+    },
+    {
+      "title": "What Is the Millennium?",
+      "href": "/articles/what-is-the-millennium",
+      "description": "How the thousand years lead into the final judgment."
+    },
+    {
+      "title": "New Jerusalem",
+      "href": "/articles/new-jerusalem-literal-or-symbolic",
+      "description": "The restored world after sin is ended."
+    }
+  ],
+  "sourceAudit": {
+    "overview": [
+      { "sourceId": "revelation-chapter-twenty-docx", "locator": "lake of fire notes", "claimType": "primary content", "priority": 1 },
+      { "sourceId": "revelation-chapters-seventeen-twenty-two-docx", "locator": "final judgment and restoration synthesis", "claimType": "chapter synthesis", "priority": 1 }
+    ],
+    "sections": {
+      "the-second-death": [
+        { "sourceId": "revelation-chapter-twenty-docx", "locator": "Revelation 20:14-15 notes", "claimType": "exegesis", "priority": 1 }
+      ],
+      "eternal-torment-view": [
+        { "sourceId": "beale-book-of-revelation", "locator": "Revelation 14 and 20 judgment discussion", "claimType": "comparative view", "priority": 3 }
+      ],
+      "final-destruction-view": [
+        { "sourceId": "amazing-facts-revelation-verse-by-verse", "locator": "lake of fire discussion", "claimType": "final destruction support", "priority": 2 }
+      ],
+      "justice-without-cruelty": [
+        { "sourceId": "revelation-chapter-sixteen-docx", "locator": "justice of plagues notes", "claimType": "justice theme", "priority": 1 }
+      ],
+      "satan-and-the-end": [
+        { "sourceId": "revelation-chapter-twenty-docx", "locator": "Satan and final revolt notes", "claimType": "cosmic conflict closure", "priority": 1 }
+      ]
+    },
+    "whyThisMatters": [
+      { "sourceId": "revelation-chapter-twenty-one-docx", "locator": "new heaven and earth notes", "claimType": "restoration synthesis", "priority": 1 }
+    ]
+  }
+}

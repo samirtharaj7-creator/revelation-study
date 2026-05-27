@@ -1,0 +1,394 @@
+{
+  "resources": [
+    {
+      "id": "amazing-facts-earths-final-warning",
+      "title": "Earth's Final Warning: The Three Angels of Revelation",
+      "author": "Amazing Facts",
+      "type": "Bible study material",
+      "tradition": "Adventist",
+      "interpretiveCategory": "Adventist evangelistic / historicist",
+      "howUsed": "Internal source metadata retained for synthesized commentary and hidden audit validation.",
+      "citationFormat": "Internal source metadata retained for audit only."
+    },
+    {
+      "id": "amazing-facts-revelation-verse-by-verse",
+      "title": "Revelation Verse By Verse",
+      "author": "Amazing Facts",
+      "type": "Commentary",
+      "tradition": "Adventist",
+      "interpretiveCategory": "Adventist historicist",
+      "howUsed": "Internal source metadata retained for synthesized commentary and hidden audit validation.",
+      "citationFormat": "Internal source metadata retained for audit only."
+    },
+    {
+      "id": "bauckham-theology-revelation",
+      "title": "The Theology of the Book of Revelation",
+      "author": "Richard Bauckham",
+      "type": "Theology",
+      "tradition": "Non-Adventist",
+      "interpretiveCategory": "Academic / theological",
+      "howUsed": "Internal source metadata retained for synthesized commentary and hidden audit validation.",
+      "citationFormat": "Internal source metadata retained for audit only."
+    },
+    {
+      "id": "beale-book-of-revelation",
+      "title": "The Book of Revelation",
+      "author": "G. K. Beale",
+      "type": "Commentary",
+      "tradition": "Non-Adventist",
+      "interpretiveCategory": "Academic / Greek and Old Testament",
+      "howUsed": "Internal source metadata retained for synthesized commentary and hidden audit validation.",
+      "citationFormat": "Internal source metadata retained for audit only."
+    },
+    {
+      "id": "bohr-great-prophecies",
+      "title": "The Great Prophecies of Daniel & Revelation",
+      "author": "Stephen Bohr",
+      "type": "Study material",
+      "tradition": "Adventist",
+      "interpretiveCategory": "Adventist historicist",
+      "howUsed": "Internal source metadata retained for synthesized commentary and hidden audit validation.",
+      "citationFormat": "Internal source metadata retained for audit only."
+    },
+    {
+      "id": "cox-revelation-pure-and-simple",
+      "title": "Revelation Pure and Simple",
+      "author": "Kenneth Cox",
+      "type": "Commentary",
+      "tradition": "Adventist",
+      "interpretiveCategory": "Adventist historicist",
+      "howUsed": "Internal source metadata retained for synthesized commentary and hidden audit validation.",
+      "citationFormat": "Internal source metadata retained for audit only."
+    },
+    {
+      "id": "desilva-discovering-revelation",
+      "title": "Discovering Revelation",
+      "author": "David A. deSilva",
+      "type": "Commentary",
+      "tradition": "Non-Adventist",
+      "interpretiveCategory": "Academic / historical",
+      "howUsed": "Internal source metadata retained for synthesized commentary and hidden audit validation.",
+      "citationFormat": "Internal source metadata retained for audit only."
+    },
+    {
+      "id": "doukhan-secrets-of-revelation",
+      "title": "Secrets of Revelation",
+      "author": "Jacques B. Doukhan",
+      "type": "Commentary",
+      "tradition": "Adventist",
+      "interpretiveCategory": "Adventist theological / historicist",
+      "howUsed": "Internal source metadata retained for synthesized commentary and hidden audit validation.",
+      "citationFormat": "Internal source metadata retained for audit only."
+    },
+    {
+      "id": "frazee-messages-from-revelation",
+      "title": "Messages from Revelation",
+      "author": "W. D. Frazee",
+      "type": "Sermon series",
+      "tradition": "Adventist",
+      "interpretiveCategory": "Adventist pastoral / historicist",
+      "howUsed": "Internal source metadata retained for synthesized commentary and hidden audit validation.",
+      "citationFormat": "Internal source metadata retained for audit only."
+    },
+    {
+      "id": "interpreting-the-book-of-revelation",
+      "title": "Interpreting the Book of Revelation",
+      "author": "J. Ramsey Michaels",
+      "type": "Commentary / exegetical guide",
+      "tradition": "Non-Adventist",
+      "interpretiveCategory": "Academic / literary and technical background",
+      "howUsed": "Internal source metadata retained for synthesized commentary and hidden audit validation.",
+      "citationFormat": "Internal source metadata retained for audit only."
+    },
+    {
+      "id": "maxwell-god-cares-vol-2",
+      "title": "God Cares, Volume 2",
+      "author": "C. Mervyn Maxwell",
+      "type": "Book",
+      "tradition": "Adventist",
+      "interpretiveCategory": "Adventist historicist",
+      "howUsed": "Internal source metadata retained for synthesized commentary and hidden audit validation.",
+      "citationFormat": "Internal source metadata retained for audit only."
+    },
+    {
+      "id": "mcknight-revelation-rest-of-us",
+      "title": "Revelation for the Rest of Us",
+      "author": "Scot McKnight and Cody Matchett",
+      "type": "Commentary",
+      "tradition": "Non-Adventist",
+      "interpretiveCategory": "Pastoral / allegiance",
+      "howUsed": "Internal source metadata retained for synthesized commentary and hidden audit validation.",
+      "citationFormat": "Internal source metadata retained for audit only."
+    },
+    {
+      "id": "osborne-revelation",
+      "title": "Revelation",
+      "author": "Grant R. Osborne",
+      "type": "Commentary",
+      "tradition": "Non-Adventist",
+      "interpretiveCategory": "Academic / evangelical",
+      "howUsed": "Internal source metadata retained for synthesized commentary and hidden audit validation.",
+      "citationFormat": "Internal source metadata retained for audit only."
+    },
+    {
+      "id": "revelation-a-shorter-commentary",
+      "title": "Revelation: A Shorter Commentary",
+      "author": "G. K. Beale and David Campbell",
+      "type": "Commentary",
+      "tradition": "Non-Adventist",
+      "interpretiveCategory": "Academic / evangelical",
+      "howUsed": "Technical, literary, and Old Testament background support where it does not control prophetic interpretation.",
+      "citationFormat": "Internal source metadata retained for audit only."
+    },
+    {
+      "id": "revelation-chapter-eight-docx",
+      "title": "Revelation Chapter Eight",
+      "author": "User-provided manuscript",
+      "type": "Word manuscript",
+      "tradition": "Adventist",
+      "interpretiveCategory": "Adventist historicist",
+      "howUsed": "Internal manuscript source for synthesized chapter commentary and hidden audit metadata.",
+      "citationFormat": "Internal manuscript metadata retained for audit only."
+    },
+    {
+      "id": "revelation-chapter-eighteen-docx",
+      "title": "Revelation Chapter Eighteen",
+      "author": "Uploaded manuscript",
+      "type": "Manuscript",
+      "tradition": "Adventist",
+      "interpretiveCategory": "Adventist historicist manuscript synthesis",
+      "howUsed": "Internal source metadata retained for synthesized Revelation 18 commentary.",
+      "citationFormat": "Internal source metadata retained for audit only."
+    },
+    {
+      "id": "revelation-chapter-eleven-docx",
+      "title": "Revelation Chapter Eleven",
+      "author": "User-provided manuscript",
+      "type": "Word manuscript",
+      "tradition": "Adventist",
+      "interpretiveCategory": "Adventist historicist",
+      "howUsed": "Internal manuscript source for synthesized chapter commentary and hidden audit metadata.",
+      "citationFormat": "Internal manuscript metadata retained for audit only."
+    },
+    {
+      "id": "revelation-chapter-fifteen-docx",
+      "title": "Revelation Chapter Fifteen",
+      "author": "Uploaded manuscript",
+      "type": "Manuscript",
+      "tradition": "Adventist",
+      "interpretiveCategory": "Adventist historicist manuscript synthesis",
+      "howUsed": "Internal source metadata retained for synthesized Revelation 15 commentary.",
+      "citationFormat": "Internal source metadata retained for audit only."
+    },
+    {
+      "id": "revelation-chapter-five-docx",
+      "title": "Revelation Chapter Five",
+      "author": "User-provided manuscript",
+      "type": "Word manuscript",
+      "tradition": "Adventist",
+      "interpretiveCategory": "Adventist historicist",
+      "howUsed": "Internal manuscript source for synthesized chapter commentary and hidden audit metadata.",
+      "citationFormat": "Internal manuscript metadata retained for audit only."
+    },
+    {
+      "id": "revelation-chapter-four-docx",
+      "title": "Revelation Chapter Four",
+      "author": "User-provided manuscript",
+      "type": "Word manuscript",
+      "tradition": "Adventist",
+      "interpretiveCategory": "Adventist historicist",
+      "howUsed": "Internal manuscript source for synthesized chapter commentary and hidden audit metadata.",
+      "citationFormat": "Internal manuscript metadata retained for audit only."
+    },
+    {
+      "id": "revelation-chapter-nine-docx",
+      "title": "Revelation Chapter Nine",
+      "author": "User-provided manuscript",
+      "type": "Word manuscript",
+      "tradition": "Adventist",
+      "interpretiveCategory": "Adventist historicist",
+      "howUsed": "Internal manuscript source for synthesized chapter commentary and hidden audit metadata.",
+      "citationFormat": "Internal manuscript metadata retained for audit only."
+    },
+    {
+      "id": "revelation-chapter-nineteen-docx",
+      "title": "Revelation Chapter Nineteen",
+      "author": "Uploaded manuscript",
+      "type": "Manuscript",
+      "tradition": "Adventist",
+      "interpretiveCategory": "Adventist historicist manuscript synthesis",
+      "howUsed": "Internal source metadata retained for synthesized Revelation 19 commentary.",
+      "citationFormat": "Internal source metadata retained for audit only."
+    },
+    {
+      "id": "revelation-chapter-seven-docx",
+      "title": "Revelation Chapter Seven",
+      "author": "User-provided manuscript",
+      "type": "Word manuscript",
+      "tradition": "Adventist",
+      "interpretiveCategory": "Adventist historicist",
+      "howUsed": "Internal manuscript source for synthesized chapter commentary and hidden audit metadata.",
+      "citationFormat": "Internal manuscript metadata retained for audit only."
+    },
+    {
+      "id": "revelation-chapter-seventeen-docx",
+      "title": "Revelation Chapter Seventeen",
+      "author": "Uploaded manuscript",
+      "type": "Manuscript",
+      "tradition": "Adventist",
+      "interpretiveCategory": "Adventist historicist manuscript synthesis",
+      "howUsed": "Internal source metadata retained for synthesized Revelation 17 commentary.",
+      "citationFormat": "Internal source metadata retained for audit only."
+    },
+    {
+      "id": "revelation-chapter-six-docx",
+      "title": "Revelation Chapter Six",
+      "author": "User-provided manuscript",
+      "type": "Word manuscript",
+      "tradition": "Adventist",
+      "interpretiveCategory": "Adventist historicist",
+      "howUsed": "Internal manuscript source for synthesized chapter commentary and hidden audit metadata.",
+      "citationFormat": "Internal manuscript metadata retained for audit only."
+    },
+    {
+      "id": "revelation-chapter-sixteen-docx",
+      "title": "Revelation Chapter Sixteen",
+      "author": "Uploaded manuscript",
+      "type": "Manuscript",
+      "tradition": "Adventist",
+      "interpretiveCategory": "Adventist historicist manuscript synthesis",
+      "howUsed": "Internal source metadata retained for synthesized Revelation 16 commentary.",
+      "citationFormat": "Internal source metadata retained for audit only."
+    },
+    {
+      "id": "revelation-chapter-ten-docx",
+      "title": "Revelation Chapter Ten",
+      "author": "User-provided manuscript",
+      "type": "Word manuscript",
+      "tradition": "Adventist",
+      "interpretiveCategory": "Adventist historicist",
+      "howUsed": "Internal manuscript source for synthesized chapter commentary and hidden audit metadata.",
+      "citationFormat": "Internal manuscript metadata retained for audit only."
+    },
+    {
+      "id": "revelation-chapter-thirteen-docx",
+      "title": "Revelation Chapter Thirteen",
+      "author": "User-provided manuscript",
+      "type": "Word manuscript",
+      "tradition": "Adventist",
+      "interpretiveCategory": "Adventist historicist",
+      "howUsed": "Internal manuscript source for synthesized chapter commentary and hidden audit metadata.",
+      "citationFormat": "Internal manuscript metadata retained for audit only."
+    },
+    {
+      "id": "revelation-chapter-three-docx",
+      "title": "Revelation Chapter Three",
+      "author": "User-provided manuscript",
+      "type": "Word manuscript",
+      "tradition": "Adventist",
+      "interpretiveCategory": "Adventist historicist",
+      "howUsed": "Internal manuscript source for synthesized chapter commentary and hidden audit metadata.",
+      "citationFormat": "Internal manuscript metadata retained for audit only."
+    },
+    {
+      "id": "revelation-chapter-twelve-docx",
+      "title": "Revelation Chapter Twelve",
+      "author": "User-provided manuscript",
+      "type": "Word manuscript",
+      "tradition": "Adventist",
+      "interpretiveCategory": "Adventist historicist",
+      "howUsed": "Internal manuscript source for synthesized chapter commentary and hidden audit metadata.",
+      "citationFormat": "Internal manuscript metadata retained for audit only."
+    },
+    {
+      "id": "revelation-chapter-twenty-docx",
+      "title": "Revelation Chapter Twenty",
+      "author": "Uploaded manuscript",
+      "type": "Manuscript",
+      "tradition": "Adventist",
+      "interpretiveCategory": "Adventist historicist manuscript synthesis",
+      "howUsed": "Internal source metadata retained for synthesized Revelation 20 commentary.",
+      "citationFormat": "Internal source metadata retained for audit only."
+    },
+    {
+      "id": "revelation-chapter-twenty-one-docx",
+      "title": "Revelation Chapter Twenty-One",
+      "author": "Uploaded manuscript",
+      "type": "Manuscript",
+      "tradition": "Adventist",
+      "interpretiveCategory": "Adventist historicist manuscript synthesis",
+      "howUsed": "Internal source metadata retained for synthesized Revelation 21 commentary.",
+      "citationFormat": "Internal source metadata retained for audit only."
+    },
+    {
+      "id": "revelation-chapter-twenty-two-docx",
+      "title": "Revelation Chapter Twenty-Two",
+      "author": "Uploaded manuscript",
+      "type": "Manuscript",
+      "tradition": "Adventist",
+      "interpretiveCategory": "Adventist historicist manuscript synthesis",
+      "howUsed": "Internal source metadata retained for synthesized Revelation 22 commentary.",
+      "citationFormat": "Internal source metadata retained for audit only."
+    },
+    {
+      "id": "revelation-chapter-two-docx",
+      "title": "Revelation Chapter Two",
+      "author": "User-provided manuscript",
+      "type": "Word manuscript",
+      "tradition": "Adventist",
+      "interpretiveCategory": "Adventist historicist",
+      "howUsed": "Internal manuscript source for synthesized chapter commentary and hidden audit metadata.",
+      "citationFormat": "Internal manuscript metadata retained for audit only."
+    },
+    {
+      "id": "revelation-chapters-seventeen-twenty-two-docx",
+      "title": "Revelation Chapter Seventeen to Twenty-Two",
+      "author": "Uploaded manuscript",
+      "type": "Manuscript",
+      "tradition": "Adventist",
+      "interpretiveCategory": "Adventist historicist manuscript synthesis",
+      "howUsed": "Internal source metadata retained for synthesized Revelation 17-22 commentary.",
+      "citationFormat": "Internal source metadata retained for audit only."
+    },
+    {
+      "id": "revelation-docx",
+      "title": "Revelation manuscript",
+      "author": "User-provided study manuscript",
+      "type": "Word manuscript",
+      "tradition": "Adventist",
+      "interpretiveCategory": "Adventist historicist",
+      "howUsed": "Foundation for the introduction page and Revelation 1 commentary synthesis.",
+      "citationFormat": "Internal manuscript metadata retained for audit only."
+    },
+    {
+      "id": "revelation-interpretation-a-bible-commentary-for-teaching-and-preaching",
+      "title": "Revelation: Interpretation",
+      "author": "M. Eugene Boring",
+      "type": "Commentary",
+      "tradition": "Non-Adventist",
+      "interpretiveCategory": "Academic / pastoral",
+      "howUsed": "Internal source metadata retained for synthesized commentary and hidden audit validation.",
+      "citationFormat": "Internal source metadata retained for audit only."
+    },
+    {
+      "id": "revelation-practical-living-in-the-judgment-hour",
+      "title": "Revelation: Practical Living in the Judgment Hour",
+      "author": "Norman McNulty",
+      "type": "Commentary",
+      "tradition": "Adventist",
+      "interpretiveCategory": "Adventist historicist",
+      "howUsed": "Priority Adventist source for Revelation interpretation, sanctuary emphasis, and prophetic framework.",
+      "citationFormat": "Internal source metadata retained for audit only."
+    },
+    {
+      "id": "stefanovic-revelation-of-jesus-christ",
+      "title": "Revelation of Jesus Christ",
+      "author": "Ranko Stefanovic",
+      "type": "Commentary",
+      "tradition": "Adventist",
+      "interpretiveCategory": "Adventist exegetical / historicist",
+      "howUsed": "Internal source metadata retained for synthesized commentary and hidden audit validation.",
+      "citationFormat": "Internal source metadata retained for audit only."
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "title": "The Seven Trumpets as Warning Judgments",
+  "slug": "seven-trumpets-as-warning-judgments",
+  "category": "Throne, Seals, and Trumpets",
+  "summary": "The trumpets arise from the sanctuary scene of incense and altar fire, warning the world through partial judgments before the final plagues fall.",
+  "readingTime": "9 min read",
+  "tags": ["trumpets", "sanctuary", "warning", "judgment", "history"],
+  "sections": [
+    {
+      "id": "from-incense-to-trumpets",
+      "title": "From incense to trumpets",
+      "body": [
+        "Revelation 8 does not begin the trumpets with military noise. It begins with silence in heaven, seven angels standing before God, and an altar scene. Incense is offered with the prayers of the saints before the throne. Then fire from the altar is cast into the earth, and the trumpets prepare to sound.",
+        "This order matters. The trumpets are not random disasters. They are warning judgments connected with heaven's sanctuary response. The prayers of God's people are heard. History is being addressed from the altar. The trumpet judgments are partial, not final; they warn, expose, and call for repentance before the seven last plagues bring unmixed wrath."
+      ],
+      "scriptureReferences": ["Revelation 8:1-6", "Exodus 30:1-10", "Numbers 10:1-10", "Revelation 15:1"]
+    },
+    {
+      "id": "first-four",
+      "title": "The first four trumpets",
+      "body": [
+        "The first four trumpets strike earth, sea, rivers, and heavenly lights. The imagery draws from Exodus plagues and prophetic judgments on nations. In the historic reading, these trumpets trace judgments that fell on the Western Roman world as its power was broken and darkened. The language is symbolic, but the symbolism is not weightless. Rome had opposed God's people and exalted imperial power; the trumpet judgments announce that no empire stands beyond heaven's warning.",
+        "The first trumpet's hail, fire, and blood picture destructive invasion. The second trumpet's burning mountain cast into the sea evokes a kingdom thrown down. The third trumpet's Wormwood darkens the waters with bitterness. The fourth trumpet strikes the sun, moon, and stars, portraying the darkening of ruling lights. These judgments are severe, yet they remain measured: thirds are struck, not the whole. Mercy still stands behind warning."
+      ],
+      "scriptureReferences": ["Revelation 8:7-12", "Exodus 9:22-26", "Jeremiah 51:25", "Isaiah 13:10"]
+    },
+    {
+      "id": "three-woes",
+      "title": "The three woes",
+      "body": [
+        "After the fourth trumpet, an angelic voice warns of three woes yet to come. The last three trumpets intensify the warning. Revelation 9 uses locusts, scorpions, smoke, a bottomless pit, cavalry, fire, smoke, and brimstone to portray destructive powers released under divine permission. The powers are not redemptive; they torment, darken, and destroy.",
+        "The historic reading connects the fifth and sixth trumpets with the rise of Islam/Saracen power and Ottoman Turkish power, including prophetic time periods that reach into the modern era. The point of including dates is not to turn Revelation into mere chronology. The point is that God gives the church prophetic light as history unfolds, and the trumpet warnings expose the fragility of every religious-political system that resists the truth of God."
+      ],
+      "scriptureReferences": ["Revelation 8:13", "Revelation 9:1-21", "Joel 2:1-11", "Revelation 11:14"]
+    },
+    {
+      "id": "warning-without-repentance",
+      "title": "Warning without repentance",
+      "body": [
+        "The most tragic words in the trumpet sequence are not the descriptions of destruction but the repeated refusal to repent. Even after warning judgments, the survivors do not turn from idols, murders, sorceries, fornication, and thefts. This exposes a central biblical truth: judgment can reveal the truth, but it cannot force love. It can shake confidence in false gods, but it cannot manufacture repentance in a hardened heart.",
+        "The trumpets therefore prepare the reader for the final gospel call. Revelation does not move from warning to fatalism. It moves from warning to proclamation: fear God, give Him glory, worship the Creator, come out of Babylon, keep the commandments of God and the faith of Jesus. The trumpet judgments are serious because mercy is serious."
+      ],
+      "scriptureReferences": ["Revelation 9:20-21", "Revelation 14:6-12", "Revelation 18:4"]
+    }
+  ],
+  "whyThisMatters": {
+    "body": [
+      "The trumpets teach that heaven warns before final wrath. They also teach that history is morally accountable. Empires, religious systems, and human hearts are not left uninterpreted.",
+      "The right response to the trumpets is not fascination with disaster but repentance, prayer, worship, and loyalty to the Lamb who still intercedes before judgment closes."
+    ],
+    "scriptureReferences": ["Revelation 8:3-5", "Revelation 9:20-21", "Revelation 14:7"]
+  },
+  "relatedLinks": [
+    {
+      "title": "Revelation 8",
+      "href": "/revelation/8",
+      "description": "The sanctuary setting and first four trumpets."
+    },
+    {
+      "title": "Revelation 9",
+      "href": "/revelation/9",
+      "description": "The fifth and sixth trumpets and the refusal to repent."
+    }
+  ],
+  "sourceAudit": {
+    "overview": [
+      { "sourceId": "revelation-practical-living-in-the-judgment-hour", "locator": "Revelation 8-9 trumpet material", "claimType": "primary trumpet framework", "priority": 1 },
+      { "sourceId": "revelation-chapter-eight-docx", "locator": "Revelation 8 manuscript material", "claimType": "sanctuary and first four trumpets", "priority": 1 }
+    ],
+    "sections": {
+      "from-incense-to-trumpets": [
+        { "sourceId": "revelation-chapter-eight-docx", "locator": "altar and incense notes", "claimType": "sanctuary context", "priority": 1 }
+      ],
+      "first-four": [
+        { "sourceId": "revelation-practical-living-in-the-judgment-hour", "locator": "first four trumpets", "claimType": "historical trumpet sequence", "priority": 1 }
+      ],
+      "three-woes": [
+        { "sourceId": "revelation-chapter-nine-docx", "locator": "fifth and sixth trumpet notes", "claimType": "trumpet woes", "priority": 1 }
+      ],
+      "warning-without-repentance": [
+        { "sourceId": "revelation-practical-living-in-the-judgment-hour", "locator": "Revelation 9:20-21 material", "claimType": "repentance theme", "priority": 1 }
+      ]
+    },
+    "whyThisMatters": [
+      { "sourceId": "amazing-facts-revelation-verse-by-verse", "locator": "trumpet overview", "claimType": "supporting synthesis", "priority": 2 }
+    ]
+  }
+}
